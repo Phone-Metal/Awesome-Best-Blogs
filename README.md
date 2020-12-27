@@ -13,20 +13,12 @@ A List of Some Good Blogs Around The Internet.
 * Technology 
 
                                   ___           ___           ___     
-     _____                       /  /\         /  /\         /  /\    
-    /  /::\                     /  /::\       /  /:/_       /  /:/_   
-   /  /:/\:\    ___     ___    /  /:/\:\     /  /:/ /\     /  /:/ /\  
-  /  /:/~/::\  /__/\   /  /\  /  /:/  \:\   /  /:/_/::\   /  /:/ /::\ 
- /__/:/ /:/\:| \  \:\ /  /:/ /__/:/ \__\:\ /__/:/__\/\:\ /__/:/ /:/\:\
- \  \:\/:/~/:/  \  \:\  /:/  \  \:\ /  /:/ \  \:\ /~~/:/ \  \:\/:/~/:/
-  \  \::/ /:/    \  \:\/:/    \  \:\  /:/   \  \:\  /:/   \  \::/ /:/ 
-   \  \:\/:/      \  \::/      \  \:\/:/     \  \:\/:/     \__\/ /:/  
-    \  \::/        \__\/        \  \::/       \  \::/        /__/:/   
-     \__\/                       \__\/         \__\/         \__\/    
 
 
-## License
+## License :
+
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 ##Contribution :
+
 If you want to make a contribution to the project and make it better, 
 your support is very appreciated.
