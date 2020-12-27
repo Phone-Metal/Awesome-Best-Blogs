@@ -16,9 +16,8 @@ A List of Some Good Blogs Around The Internet.
 
 ## About :
 
-Don't Waste Time Searching The Web For Interesting Blogs Or Tutorials,Since This List Did It For You, A Unique Honest List Of
-Best Blogs & Informative Content Around The Web, Handpicked. 
- 
+Don't waste time searching the web for interesting blogs or tutorials, because this list is for you.
+Fall In Love With Blogs With The Assistance Of This Unique Unbiased List Of Best Blogs & Insightful Contents Across The Globe, Handpicked.
 ## License :
 
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
