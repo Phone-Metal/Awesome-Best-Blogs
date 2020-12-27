@@ -11,12 +11,13 @@ A List of Some Good Blogs Around The Internet.
 * Parent Life
 * Life
 * Education 
-* Technology 
-       
+* Technology & Ethical Hacking Tutorials
+* SEO-Related      
 
 ## License :
 
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+
 ##Contribution :
 
 If you want to make a contribution to the project and make it better, 
