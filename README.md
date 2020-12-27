@@ -1,5 +1,6 @@
 # Best-Blogs
-A List of Some Good Blogs Around The Internet. 
+A List of Some Good Blogs Around The Internet.
+[logo](https://github.com/Phone-Metal/Best-Blogs/blob/main/blogs_logo.png) 
 # The Main Tags/Content Types Are : 
 * Travel
 * Food
@@ -11,9 +12,7 @@ A List of Some Good Blogs Around The Internet.
 * Life
 * Education 
 * Technology 
-
-                                  ___           ___           ___     
-
+       
 
 ## License :
 
