@@ -1,4 +1,5 @@
 # Blogs About Technology & Ethical Hacking :
+  🇭​​​​​🇦​​​​​🇨​​​​​🇰​​​​​​​​​-🇹​​​​​🇭​​​​​🇪​​​​​-🇼​​​​​🇴​​​​​🇷​​​​​🇱​​​​​🇩​​​​​ :
 * [The Verge](https://www.theverge.com/)
 * [CyberSecPlay](https://cybersecplay.blogspot.com/) 
 * [Linux server tutorials](http://linuxservertutorials.blogspot.com/?m=1)
