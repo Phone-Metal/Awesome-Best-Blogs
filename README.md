@@ -5,6 +5,7 @@ A List of Some Good Blogs Around The Internet.
 * Travel
 * Food
 * Fashion
+* Health 
 * Design 
 * Relationships
 * Recipes
