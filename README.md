@@ -12,13 +12,14 @@ A List of Some Good Blogs Around The Internet.
 * Life
 * Education 
 * Technology & Ethical Hacking Tutorials
-* SEO-Related      
+* SEO-Related 
+
 
 ## License :
 
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
-##Contribution :
+## Contribution :
 
 If you want to make a contribution to the project and make it better, 
 your support is very appreciated.
