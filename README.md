@@ -10,7 +10,7 @@ A List of Some Good Blogs Around The Internet.
 * [Relationships](https://github.com/Phone-Metal/Best-Blogs/blob/main/Relationships.md) 
 * Parent Life
 * Life 
-* [Technology & Ethical Hacking Tutorials] (https://github.com/Phone-Metal/Best-Blogs/blob/main/Technology%20%26%20Ethical%20Hacking.md) 
+* [Technology & Ethical Hacking Tutorials](https://github.com/Phone-Metal/Best-Blogs/blob/main/Technology%20%26%20Ethical%20Hacking.md) 
 * [SEO-Web-Related](https://github.com/Phone-Metal/Best-Blogs/blob/main/SEO-Web-Related.md) 
 
 
