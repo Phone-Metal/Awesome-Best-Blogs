@@ -1,4 +1,4 @@
-# Best-Blogs
+# Awesome - Best-Blogs :
 
 A List of Some Good Blogs Around The Internet.
 ![logo](https://github.com/Phone-Metal/Best-Blogs/blob/main/blogs_logo.png) 
@@ -14,18 +14,22 @@ A List of Some Good Blogs Around The Internet.
 * [Technology & Ethical Hacking Tutorials](https://github.com/Phone-Metal/Best-Blogs/blob/main/Technology%20%26%20Ethical%20Hacking.md) 
 * [SEO-Web-Related](https://github.com/Phone-Metal/Best-Blogs/blob/main/SEO-Web-Related.md) 
 
-## Who-What-Why (About) :
+## Who-What-Why :
 
-Don't waste time to find interesting web blogs or tutorials because this list is up for you, since people spend 22 percent internet time on blogs. 
+Don't waste time to find interesting web blogs or tutorials because this list is up for you, since people spend 22 percent internet time on blogs,This List Was Created To Help Discover New And Good Content.
+
 Freely Fall In Love With Blogs (Or Don't) Follow the topics & blogs you like With the aid of this exclusive list of best blogs & informative content Around The Internet.
+
+Fun Fact : The human mind processes visual information [60,000 times faster](https://www.t-sciences.com/news/humans-process-visual-data-better#:~:text=Visualization%20works%20from%20a%20human,to%20the%20brain%20is%20visual) than text
 ## License :
 
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
 
 ## Contribution :
-> If you want to update or publish your own blog here, feel free to do so and expand to improve the project.
+
+ If you want to update or publish your own blog here, feel free to do so and expand to improve the project.
 Your support is highly appreciated
 
-> If Your Blog Appears Here And You Do Not Wish It To Appear Here Or Want To **Remove** It, Than 
+ If Your Blog Appears Here And You Do Not Wish It To Appear Here Or Want To **Remove** It, Than 
 Please Feel Free To *Remove* It Or Contact 
 
