@@ -5,8 +5,8 @@
 * [Heathline](https://www.healthline.com/health/best-healthy-living-blogs) 
   * An American website and provider of health information 
 * [Nerd Fitness](https://www.nerdfitness.com/blog/) 
-  *This blog offers automatically mentioned health and fitness advice
+  * This blog offers automatically mentioned health and fitness advice
 * [The Art of Healthy Living](https://artofhealthyliving.com/)
   * The Art of Healthy Living Blog presents wellness posts on topics like workout exercises as well as high intensity exercise cycles
 * [ACE Fitness](https://www.acefitness.org/education-and-resources/professional/expert-articles/)
- * This site provides subjects such as meditation, fitness exercise and beginners' workouts.
+   * This site provides subjects such as meditation, fitness exercise and beginners' workouts.
