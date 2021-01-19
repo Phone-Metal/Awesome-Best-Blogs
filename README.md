@@ -16,8 +16,8 @@ A List of Some Good Blogs Around The Internet.
 
 ## About :
 
-Don't waste time searching the web for interesting blogs or tutorials, because this list is for you.
-Fall In Love With Blogs With The Assistance Of This Unique Unbiased List Of Best Blogs & Insightful Contents Across The Globe, Handpicked.
+Don't waste time to find interesting web blogs or tutorials because this list is up for you, since people spend 22 percent internet time on blogs. 
+Freely Fall In Love With Blogs With the aid of this exclusive list of best blogs & informative content Around The Globe.
 ## License :
 
 [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
